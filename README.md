@@ -3,10 +3,17 @@ Presenting the Diamond Insights Dashboard, a powerful tool for the diamond indus
 
 # Project Methodology
 The project procedures can be summarized as follows:
+
 Web Scraping
+
 Data Import
+
 Data Assessment
+
 Data Cleaning
+
 Data Preprocessing/Features Extraction
+
 Exploratory Analysis/Data Visualization
+
 MS Excel Dashboard
